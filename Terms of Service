@@ -1,0 +1,67 @@
+# Bot Hizmet Şartları ve Kullanım Koşulları
+
+## 1. Tanımlar
+- **Bot**: Discord sunucuları için geliştirilmiş moderasyon ve yönetim aracı
+- **Kullanıcı**: Botu kullanan Discord sunucusu üyeleri
+- **Yetkili**: Discord sunucusunda bot yönetim yetkisine sahip kişiler
+- **Sunucu**: Botun kurulu olduğu Discord sunucuları
+
+## 2. Kullanım Koşulları
+### 2.1. Genel Kullanım
+- Bot sadece Discord platformu üzerinde kullanılabilir
+- Botun tüm komutları `/` (slash) komut sistemi ile çalışır
+- Bot komutlarının kötüye kullanımı yasaktır
+- Spam ve kötü amaçlı kullanımlar yasaktır
+
+### 2.2. Moderasyon Sistemi
+- Bot yalnızca kanal-bazlı moderasyon uygular
+- Moderasyon işlemleri sunucu yetkilileri tarafından yapılandırılır
+- Ceza puanları ve kayıtları 30 gün süreyle saklanır
+- Moderasyon işlemleri geri alınabilir özeliktedir
+
+## 3. Gizlilik ve Veri Kullanımı
+### 3.1. Veri Toplama
+- Sunucu ID
+- Kanal ID'leri
+- Kullanıcı ID'leri
+- Moderasyon kayıtları
+- Ceza puanları
+
+### 3.2. Veri Saklama
+- Veriler şifreli olarak saklanır
+- 30 gün sonra otomatik silinir
+- Kişisel veriler üçüncü taraflarla paylaşılmaz
+
+## 4. Sorumluluk Reddi
+- Bot hizmetinde yaşanabilecek kesintiler
+- Yanlış kullanımdan doğacak sorunlar
+- Discord API kaynaklı hatalar
+- Veri kayıpları ve gecikmeler
+
+## 5. Yasaklı Kullanımlar
+- Toplu spam
+- Bot tokeninin çalınması
+- Komut istismarı
+- API limitlerini zorlama
+- Haksız moderasyon uygulamaları
+
+## 6. Güncellemeler ve Değişiklikler
+- Bot özellikleri güncellenebilir
+- Yeni komutlar eklenebilir
+- Hizmet şartları değiştirilebilir
+- Değişiklikler Discord sunucusunda duyurulur
+
+## 7. İletişim ve Destek
+- Discord sunucusu üzerinden destek
+- Hata bildirimleri
+- Öneriler ve geri bildirimler
+- Yetkili başvuruları
+
+## 8. Son Hükümler
+- Bu şartların kabul edilmesi zorunludur
+- Kurallara uymayan kullanıcılar bottan yasaklanabilir
+- Şartların ihlali durumunda bot hizmeti sonlandırılabilir
+
+---
+*Son Güncelleme: 14 Mayıs 2025*  
+*Bu hizmet şartları önceden haber verilmeksizin değiştirilebilir.*
