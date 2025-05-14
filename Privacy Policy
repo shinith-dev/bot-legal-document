@@ -1,0 +1,82 @@
+# Bot Gizlilik Politikası
+
+## 1. Veri Toplama ve Kullanım
+### 1.1. Toplanan Veriler
+- Discord Sunucu ID'leri
+- Kanal ID'leri ve ayarları
+- Kullanıcı ID'leri
+- Moderasyon kayıtları
+- Ceza puanları ve geçmişi
+- Log kayıtları
+
+### 1.2. Veri Kullanım Amaçları
+- Moderasyon sisteminin işletilmesi
+- Kullanıcı ihlallerinin takibi
+- İstatistiksel analizler
+- Sistem performans ölçümleri
+- Hata ayıklama ve düzeltme
+
+## 2. Veri Saklama ve Güvenlik
+### 2.1. Saklama Süreleri
+- Moderasyon kayıtları: 30 gün
+- Ceza puanları: 30 gün
+- Log kayıtları: 7 gün
+- Sistem ayarları: Sunucu aktif olduğu sürece
+
+### 2.2. Güvenlik Önlemleri
+- Veriler şifrelenmiş formatta saklanır
+- Düzenli yedekleme
+- Erişim kontrolleri
+- Güvenlik güncellemeleri
+
+## 3. Veri Paylaşımı
+### 3.1. Üçüncü Taraflarla Paylaşım
+- Veriler üçüncü taraflarla paylaşılmaz
+- API servisleri dışında dış bağlantı yoktur
+- Analitik amaçlı anonim veriler kullanılabilir
+
+### 3.2. Yasal Zorunluluklar
+- Yasal talep durumunda bilgi paylaşımı
+- Kullanıcı güvenliği için gerekli durumlar
+- Discord Hizmet Şartları gereklilikleri
+
+## 4. Kullanıcı Hakları
+### 4.1. Erişim Hakları
+- Kişisel verilere erişim talebi
+- Veri düzeltme ve silme talebi
+- Veri işleme itiraz hakkı
+
+### 4.2. Veri Taşınabilirliği
+- Verilerin kopyasını talep etme
+- Başka sisteme aktarım talebi
+
+## 5. Çerezler ve İzleme
+- Bot çerez kullanmaz
+- Kullanıcı davranış izlemesi yapılmaz
+- Sadece sistem fonksiyonları için gerekli veriler tutulur
+
+## 6. Çocukların Gizliliği
+- 13 yaş altı kullanıcılardan veri toplanmaz
+- Ebeveyn izni gerektiren durumlar
+- COPPA uyumluluğu
+
+## 7. Politika Değişiklikleri
+- Değişiklik bildirimleri
+- Güncelleme tarihleri
+- Kullanıcı onayı gerektiren durumlar
+
+## 8. İletişim
+- Gizlilik sorguları
+- Veri talepleri
+- Şikayet ve öneriler
+
+## 9. Veri Silme Talebi
+- Sunucudan ayrılma durumunda veriler silinir
+- Manuel silme talebi prosedürü
+- Otomatik veri temizleme
+
+---
+*Son Güncelleme: 14 Mayıs 2025*  
+*Bu gizlilik politikası, gerekli durumlarda güncellenebilir.*
+
+*Not: Bu politika Discord'un genel gizlilik politikasına ek olarak uygulanır.*
