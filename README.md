@@ -10,10 +10,7 @@ Bu repository, **Discord botları** için **Hizmet Şartları** ve **Gizlilik Po
 - [**Hizmet Şartları ve Gizlilik Politikası**](./legal/1385378099809488976.md)  
 
 ### Bot 2: **Client ID: 987654321098765432**
-- [**Hizmet Şartları ve Gizlilik Politikası**](./bot2/terms-and-privacy.md)  
-
-### Bot 3: **Client ID: 112233445566778899**
-- [**Hizmet Şartları ve Gizlilik Politikası**](./bot3/terms-and-privacy.md)  
+- [**Hizmet Şartları ve Gizlilik Politikası**](./legal/1349489021986017453.md)  
 
 ---
 
