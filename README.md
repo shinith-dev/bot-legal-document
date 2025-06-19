@@ -3,7 +3,7 @@
 
 ---
 
-## 🌐 English
+## 📗 English
 
 This repository contains documents for **Terms of Service** and **Privacy Policies** for **Discord bots**. You can easily access the legal documents required for each bot.
 
@@ -39,7 +39,7 @@ This repository is **closed source** and may only be used by the bot developer. 
 
 ---
 
-## 🇹🇷 Türkçe
+## 📗 Türkçe
 
 Bu repository, **Discord botları** için **Hizmet Şartları** ve **Gizlilik Politikaları** içeren belgeleri barındırır. Her bot için gereken yasal dokümanlara kolayca erişebilirsiniz.
 
