@@ -39,7 +39,7 @@ This repository is **closed source** and may only be used by the bot developer. 
 
 ---
 
-## 📗 Türkçe Versiyon
+## 📗 Türkçe Sürüm
 
 Bu repository, **Discord botları** için **Hizmet Şartları** ve **Gizlilik Politikaları** içeren belgeleri barındırır. Her bot için gereken yasal dokümanlara kolayca erişebilirsiniz.
 
